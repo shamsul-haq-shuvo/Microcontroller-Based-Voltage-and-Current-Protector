@@ -1,0 +1,30 @@
+Set undervoltage threshold
+
+SET_UV 190
+
+-----------------------------
+
+
+Set overvoltage threshold
+
+SET_OV 250
+
+--------------------------------
+
+
+Set over-current threshold
+
+SET_I 1.6
+
+--------------------------------
+
+
+Display current settings
+
+STATUS
+
+--------------------------------
+
+Change Status
+ON
+OFF
