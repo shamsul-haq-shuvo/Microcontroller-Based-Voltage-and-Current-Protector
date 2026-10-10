@@ -20,7 +20,7 @@ A Proteus-simulated Arduino Uno protection system that monitors supply voltage a
 
 ### Full Circuit Schematic
 
-![Full Proteus schematic](Schematics/Full_Schematic.png)
+![Full Proteus schematic](Schematics/Full_Schamatic.png)
 
 ## Hardware and Proteus Components
 
